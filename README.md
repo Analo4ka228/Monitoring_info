@@ -7,12 +7,10 @@
 ![Главный экран](screenshotsmain_screen.png)
 *Главный экран программы, показывающий использование ресурсов.*
 
-1. main menu: https://yapx.ru/album/YV6va
 
-![Системный лог](https://yapx.ru/album/YV6vw)
+![Системный лог](screenshotssystem_log.png)
 *Системный лог с записями мониторинга.*
 
-2. LOG: https://yapx.ru/album/YV6vw
 
 ## Установка
 
