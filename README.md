@@ -26,8 +26,8 @@
 ### Установка зависимостей
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/ваш_логин/ваш_репозиторий.git
-    cd ваш_репозиторий
+    git clone https://github.com/Analo4ka228/Monitoring_info.git
+    cd репозиторий 
     ```
    
 2. Установите зависимости:
